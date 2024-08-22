@@ -64,7 +64,7 @@ This course is divided into the following modules:
    - Applications in real-world scenarios
 
 ## Resources
-  Link to the course: https://www.udemy.com/course/machinelearning-datascience-course/?utm_campaign=email&utm_medium=email&utm_source=sendgrid.com&couponCode=LETSLEARNNOWPP
+  Link to the course: https://www.udemy.com/course/machinelearning-datascience-course/?referralCode=177AE5EBD0CF8D8D60DF
 - **Textbook/Reference**: [Book Title, Author]
 - **Online Documentation**:
   - [Pandas Documentation](https://pandas.pydata.org/pandas-docs/stable/)
